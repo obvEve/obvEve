@@ -1,10 +1,14 @@
-- 👋 Hi, I’m Eve
-- 👀 I’m interested in sleep
-- 🌱 I’m currently learning what sleep is
-- 💞️ I’m looking to collaborate on sleep
-- 🔘 I'm autistic and like sleep
-- 📫 How to reach me: Visit me in my dreams
+Hello!
+I'm a gamer girl who just wants to have fun and make people happy! :)
 
-![Stats](https://github-readme-stats.vercel.app/api?username=obvEve&show_icons=true&theme=radical)
+Skills:
+- Chat Moderation
+- C# Programming
 
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/J3J5X95ST)
+Interests:
+- Games
+- Computers
+- Art
+- Movies, Shows and Anime
+
+Ko-Fi for supporting me can be found @ [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/J3J5X95ST)
